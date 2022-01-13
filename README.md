@@ -1,5 +1,7 @@
 ## Azizz Mills
-## Repo: 2143 Advanced Algorithm  
+## Repo: 3013 Advanced Algorithm  
 ## Email: azizzmillz@gmail.com
 ## Image :
 <img src= "Pic.png" height= "600" width="400">
+## Avatar:
+<img src= "Pic.png" height= "300" width="200">
