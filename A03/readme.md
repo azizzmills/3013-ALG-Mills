@@ -7,7 +7,7 @@ This program displays the output of a simple stack program
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | main.cpp | Main driver of my list program . |
+|   1   | commmented code.cpp | Main driver of my list program . |
 
 
 ### Instructions
