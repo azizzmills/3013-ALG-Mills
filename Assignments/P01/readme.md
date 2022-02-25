@@ -1,4 +1,4 @@
-## Program 2 - Resizing a Stack
+## Program 1 - Resizing a Stack
  
 ### Date : 2/25/2022
 ### Class : 3013 - Advanced Algorithms
