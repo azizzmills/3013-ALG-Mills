@@ -2,7 +2,7 @@
 ### Azizz Mills
 ### Description:
 
-This program displays the output of a simple stack program 
+This program displays the output of a transversal through a linked list. 
 ### Files
 
 |   #   | File     | Description                      |
