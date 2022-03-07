@@ -8,7 +8,7 @@ The purpose of this program is to mimick an auto complete word search. This is d
 
 ### Files
 - [main.cpp](main.cpp) 
-- [mygetch.txt](mygetch.txt)
-- [termcolor.txt](termcolor.txt)
-- [timer.cpp](timer.cpp) 
-- [dictionary.cpp](dictionary.cpp)
+- [mygetch.hpp](mygetch.hpp)
+- [termcolor.hpp](termcolor.hpp)
+- [timer.hpp](timer.hpp) 
+- [dictionary.txt](dictionary.txt)
