@@ -4,9 +4,11 @@
 ### Class : 3013 - Advanced Algorithms
 
 #### Description:
-This program is a class implemention an array based stack. It is should to reach a specified size before it shrinks or increases in size using dynamically allocated memory 
+The purpose of this program is to mimick an auto complete word search. This is done by recieving a character input and comparing it with words in a file. It then displays the output of the predicted words through a link list.
 
 ### Files
 - [main.cpp](main.cpp) 
-- [custom.txt](custom.txt)
-- [nums.txt](nums.txt)
+- [mygetch.txt](mygetch.txt)
+- [termcolor.txt](termcolor.txt)
+- [timer.cpp](timer.cpp) 
+- [dictionary.cpp](dictionary.cpp)
