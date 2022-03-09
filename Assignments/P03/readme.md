@@ -4,7 +4,7 @@
 ### Class : 3013 - Advanced Algorithms
 
 #### Description:
-Similar to the previous program [Predictive text](3013-Algorithms/Assignment/P03) The purpose of this program is to mimick an auto complete word search. This is done by recieving a character input and comparing it with words in a file. It then displays the output of the predicted words through a link list.
+The purpose of this program is to mimick an auto complete word search. This is done by recieving a character input and it is located in a trie tree node. The other characters in the word are then found in other trie nodes. For this example each node is filled with letters from A to Z. After a word is linked together in the tree, other words will be added. However the new word will be linked to other by the begining letters of other word the was previously added to the list. 
 
 ### Files
 - [main.cpp](main.cpp) 
